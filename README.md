@@ -1,4 +1,3 @@
-Lewis-Igbafen-Ohiorenuan-Paul
 # Decodelabs Internship
 
 This repository documents my UX/UI design internship projects, research, design processes, and key deliverables completed during the Decodelabs Internship.
